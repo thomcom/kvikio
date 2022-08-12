@@ -18,6 +18,16 @@ Zarr
 .. autoclass:: GDSStore
     :members:
 
+Nvcomp
+----
+.. currentmodule:: kvikio.nvcomp
+
+.. autoclass:: CascadedCompressor
+    :members:
+
+ .. autoclass:: LZ4Compressor
+    :members:
+
 Thread pool
 -----------
 .. currentmodule:: kvikio.thread_pool
